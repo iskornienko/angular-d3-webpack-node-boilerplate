@@ -20,4 +20,4 @@ Libraries included in the example are:
 ### Setup
 `npm install`
 
-`npm run webpack-dev`
+`npm run webpack-dev` & open browser to http://localhost:8089/
